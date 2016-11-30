@@ -1,5 +1,3 @@
-# GitHub_Repo
-Github Repositor for Java Project
 import javax.swing.*;
 public class JFrame1
 {
